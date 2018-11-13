@@ -28,7 +28,7 @@ public class CoinFlip {
 		{
 			heads++;
 		}
-		else
+		else // You dont really need the brackets for this else statement... -- Hector
 		{
 			tails++;
 		}
